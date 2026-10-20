@@ -1,0 +1,6 @@
+Name: Sergei
+Surname: Kochkin
+Age: 30
+Company: Big Tech Inc
+Pasition: AQA Python
+Salary: 350000

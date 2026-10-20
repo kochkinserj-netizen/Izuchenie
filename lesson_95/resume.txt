@@ -1,0 +1,4 @@
+name: Sergei Kochkin
+position : QA Engineer
+salary : 500000
+язык праграмировани : Python

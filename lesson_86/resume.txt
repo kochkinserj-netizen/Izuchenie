@@ -1,0 +1,4 @@
+
+FIO: Sergei Kochkin
+Position: QA
+salary : 250000
